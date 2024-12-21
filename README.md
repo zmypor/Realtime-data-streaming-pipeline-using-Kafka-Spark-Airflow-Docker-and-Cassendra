@@ -25,7 +25,7 @@ Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, Cassandra,
 ### WebUI links
 
 `Airflow`  : <http://localhost:8080/> \
-`Kafka UI` : <http://localhost:8085/> \
+`Kafka UI` : <http://localhost:8085/> 
 
 ### Clone the repository:
 
